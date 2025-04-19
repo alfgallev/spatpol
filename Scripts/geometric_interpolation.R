@@ -4,8 +4,8 @@
 # from a source polygon layer to a target polygon layer,
 # weighted by the proportion of overlapping area.
 #
-# Particularly useful for interpolating data between territorial units 
-# redrawn over time.
+# Particularly useful for interpolating count data between territorial
+# units redrawn over time.
 #
 # Ensures that for each source unit the sum of weights = 1.
 #
